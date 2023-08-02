@@ -1,6 +1,9 @@
 # How-to-Debug-a-website-in-iOS-safari-on-Windows
 
 In this repo I explained how to debug or access the Website Console Logs of iOS/iPhone Safari on Windows.
+
+I have attached the screen shots for Iphone and Chrome browser on Windows.
+
 Here's the summarized solution for remote debugging iOS devices > iOS 11.
 
 #### MAKE SURE: Both iPhone and Windows PC/Laptop must be Connected with same Network 

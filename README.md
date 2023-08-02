@@ -17,7 +17,7 @@ Here's the summarized solution for remote debugging iOS devices > iOS 11.
 
 4. Create a new folder named "ios-webkit-debug-proxy-1.9.0-win64-bin"(replace the version with your downloaded version it could be any like 2.0.0 etc) at the following location (assumes you installed Node.js in the default directory)
 
-    ```%AppData%\npm\node_modules\remotedebug-ios-webkit-adapter\node_modules\vs-libimobile\```
+    ````%AppData%\npm\node_modules\remotedebug-ios-webkit-adapter\node_modules\vs-libimobile\````
 
 5. Extract the files from the ZIP to that folder
 
